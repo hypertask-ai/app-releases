@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18.0",
+  "versionCode": 21,
+  "versionName": "1.18.2",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Come back to the app and it reconnects itself. No more 'Web page not available' that only a restart could clear."
+  "notes": "Status-bar icons now follow Hypertask's selected theme: dark on white, light on dark and AMOLED, including live theme switches."
 }
