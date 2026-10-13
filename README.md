@@ -6,3 +6,7 @@ Public download + update channel for the Hypertask mobile shell (`ai.hypertask.a
 - **Version manifest:** [latest.json](latest.json) — the app checks this on launch.
 
 Source of the shell is private. This repo only distributes signed builds.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for bug reports, ideas, and our contribution policy.
